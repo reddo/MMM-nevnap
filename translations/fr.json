@@ -1,0 +1,8 @@
+{
+	"LOADING": "Chargement &hellip;",
+	"SET_CORRECT_MODE" : "Mettez s'il vous plaît le mode correct dans le config demandent ce module: ",
+	"NAMEDAY_TODAY" : "C'est la fête de $NAME$ aujourd'hui",
+	"NAMEDAY_TOMORROW" : "Ce sera la fête de Peter $NAME$ demain",
+	"NAMEDAY_YESTERDAY" : "C'était la fête de $NAME$ hier",
+	"NAMEDAY_NAMEDAYS" : "Sur le $DAY$/$MONTH$ c'est la fête de $NAME$"
+}

@@ -1,0 +1,8 @@
+{
+	"LOADING": "Laddar &hellip;",
+	"SET_CORRECT_MODE" : "Ange rätt läge i config-filen för den här modulen: ",
+	"NAMEDAY_TODAY" : "Idag har namnsdag $NAME$",
+	"NAMEDAY_TOMORROW" : "Imorgonh har namnsdag $NAME$",
+	"NAMEDAY_YESTERDAY" : "Igår han/hon hade namnsdag $NAME$",
+	"NAMEDAY_NAMEDAYS" : "$DAY$/$MONTH$ har namnsdag $NAME$"
+}

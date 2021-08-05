@@ -1,0 +1,8 @@
+{
+	"LOADING": "Učitavanje &hellip;",
+	"SET_CORRECT_MODE" : "Postavite ispravan način u konfiguracijsku datoteku za ovaj modul: ",
+	"NAMEDAY_TODAY" : "Danas je blagdan $NAME$",
+	"NAMEDAY_TOMORROW" : "Sutra je blagdan $NAME$",
+	"NAMEDAY_YESTERDAY" : "Jučer je bio blagdan $NAME$",
+	"NAMEDAY_NAMEDAYS" : "$DAY$/$MONTH$ je blagdan $NAME$"
+}

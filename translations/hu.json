@@ -1,0 +1,8 @@
+{
+	"LOADING":           "Betöltés &hellip;",
+	"SET_CORRECT_MODE":  "Kérem, állítsa be a megfelelő  módot a konfigurációs fájlban ehhez a modulhoz: ",
+	"NAMEDAY_TODAY":     "Ma $NAME$ névnapja van",
+	"NAMEDAY_TOMORROW":  "Holnap $NAME$ névnapja lesz",
+	"NAMEDAY_YESTERDAY": "Tegnap $NAME$ névnapja volt",
+	"NAMEDAY_NAMEDAYS":  "$DAY$/$MONTH$-én lesz $NAME$ névnapja"
+}

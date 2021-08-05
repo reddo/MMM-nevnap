@@ -1,0 +1,8 @@
+{
+	"LOADING": "Načítání &hellip;",
+	"SET_CORRECT_MODE" : "Nastavte správný mód v config souboru modulu: ",
+	"NAMEDAY_TODAY" : "Dnes má svátek $NAME$",
+	"NAMEDAY_TOMORROW" : "Zítra má svátek $NAME$",
+	"NAMEDAY_YESTERDAY" : "Včera měl/a svátek $NAME$",
+	"NAMEDAY_NAMEDAYS" : "Dne $DAY$/$MONTH$ má svátek $NAME$"
+}

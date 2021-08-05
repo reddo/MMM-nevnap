@@ -48,6 +48,10 @@ Add the following text to `MagicMirror/config/config.js` to activate the module.
 
 You can find API used in this module [here](https://nevnapok.eu/).
 
+## Special Thanks
+
+Special thanks to [richardfous](https://github.com/richardfous/MMM-NameDay), on whose module I based mine.
+
 ## Issues
 
 If you find any issues with this module, feel free to open a GitHub issue in this repository.

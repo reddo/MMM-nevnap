@@ -1,0 +1,8 @@
+{
+	"LOADING": "Ładowanie &hellip;",
+	"SET_CORRECT_MODE" : "Ustaw prawidłowy tryb w pliku konfiguracyjnym modułu: ",
+	"NAMEDAY_TODAY" : "Dzisiaj ma imieniny $NAME$",
+	"NAMEDAY_TOMORROW" : "Jutro ma imieniny $NAME$",
+	"NAMEDAY_YESTERDAY" : "Wczoraj miał/a imieniny $NAME$ ",
+	"NAMEDAY_NAMEDAYS" : "W dniu $DAY$/$MONTH$ ma imieniny $NAME$"
+}
