@@ -1,28 +1,28 @@
-.name{
+.name {
 	padding-left: 5%;
 }
 
-.MMM-NameDay .xsmall {
+.MMM-Nevnap .xsmall {
   font-size: 12px;
   line-height: 17px;
 }
 
-.MMM-NameDay .small {
+.MMM-Nevnap .small {
   font-size: 15px;
   line-height: 20px;
 }
 
-.MMM-NameDay .medium {
+.MMM-Nevnap .medium {
   font-size: 20px;
   line-height: 25px;
 }
 
-.MMM-NameDay .large {
+.MMM-Nevnap .large {
   font-size: 25px;
   line-height: 30px;
 }
 
-.MMM-NameDay .xlarge {
+.MMM-Nevnap .xlarge {
   font-size: 30px;
   line-height: 35px;
   letter-spacing: -1px;

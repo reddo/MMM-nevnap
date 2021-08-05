@@ -4,7 +4,7 @@ Module.register("MMM-Nevnap", {
     day: "", // 1-31
     month: "", // 1-12
     name: "",
-    wrapperSize: "0.75em",
+    fontSize: "1em",
     updateInterval: 5 * 60 * 1000, // every 5 minutes
     initialLoadDelay: 3000,
     retryDelay: 15000,
@@ -139,8 +139,8 @@ Module.register("MMM-Nevnap", {
     const modes = ["today", "tomorrow", "yesterday", "day", "name"];
 
     const wrapper = document.createElement("div");
-    wrapper.className = "nameDayWrapper";
-    wrapper.style.fontSize = this.config.wrapperSize;
+    wrapper.className = "nameDay-wrapper";
+    wrapper.style.fontSize = this.config.fontSize;
 
     if (!modes.includes(this.config.mode)) {
       wrapper.innerHTML = this.translate("SET_CORRECT_MODE") + this.name + ".";
