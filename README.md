@@ -15,7 +15,7 @@ cd ~/MagicMirror/modules
 Clone this repository using following command:
 
 ```
-git clone https://github.com/RichieCZ/MMM-Nevnap.git
+git clone https://github.com/reddo/MMM-nevnap
 ```
 
 Add the following text to `MagicMirror/config/config.js` to activate the module.
