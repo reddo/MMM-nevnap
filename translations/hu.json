@@ -4,5 +4,6 @@
 	"NAMEDAY_TODAY":     "Ma $NAME$ névnapja van",
 	"NAMEDAY_TOMORROW":  "Holnap $NAME$ névnapja lesz",
 	"NAMEDAY_YESTERDAY": "Tegnap $NAME$ névnapja volt",
-	"NAMEDAY_NAMEDAYS":  "$DAY$/$MONTH$-én lesz $NAME$ névnapja"
+	"NAMEDAY_NAMEDAYS":  "$NAME$ névnapja $DAY$.$MONTH$.",
+	"AND": "és"
 }

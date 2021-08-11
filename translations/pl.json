@@ -4,5 +4,6 @@
 	"NAMEDAY_TODAY" : "Dzisiaj ma imieniny $NAME$",
 	"NAMEDAY_TOMORROW" : "Jutro ma imieniny $NAME$",
 	"NAMEDAY_YESTERDAY" : "Wczoraj miał/a imieniny $NAME$ ",
-	"NAMEDAY_NAMEDAYS" : "W dniu $DAY$/$MONTH$ ma imieniny $NAME$"
+	"NAMEDAY_NAMEDAYS" : "W dniu $DAY$/$MONTH$ ma imieniny $NAME$",
+	"AND": "oraz"
 }

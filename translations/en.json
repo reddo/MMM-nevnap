@@ -5,4 +5,5 @@
 	"NAMEDAY_TOMORROW" : "It will be $NAME$'s name-day tomorrow",
 	"NAMEDAY_YESTERDAY" : "It was $NAME$'s name-day yesterday",
 	"NAMEDAY_NAMEDAYS" : "On the $DAY$/$MONTH$ it is $NAME$'s name-day",
+	"AND": "and"
 }

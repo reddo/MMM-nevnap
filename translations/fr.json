@@ -4,5 +4,6 @@
 	"NAMEDAY_TODAY" : "C'est la fête de $NAME$ aujourd'hui",
 	"NAMEDAY_TOMORROW" : "Ce sera la fête de Peter $NAME$ demain",
 	"NAMEDAY_YESTERDAY" : "C'était la fête de $NAME$ hier",
-	"NAMEDAY_NAMEDAYS" : "Sur le $DAY$/$MONTH$ c'est la fête de $NAME$"
+	"NAMEDAY_NAMEDAYS" : "Sur le $DAY$/$MONTH$ c'est la fête de $NAME$",
+	"AND": "et"
 }

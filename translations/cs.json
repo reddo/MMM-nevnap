@@ -4,5 +4,6 @@
 	"NAMEDAY_TODAY" : "Dnes má svátek $NAME$",
 	"NAMEDAY_TOMORROW" : "Zítra má svátek $NAME$",
 	"NAMEDAY_YESTERDAY" : "Včera měl/a svátek $NAME$",
-	"NAMEDAY_NAMEDAYS" : "Dne $DAY$/$MONTH$ má svátek $NAME$"
+	"NAMEDAY_NAMEDAYS" : "Dne $DAY$/$MONTH$ má svátek $NAME$",
+	"AND": "a"
 }

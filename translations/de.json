@@ -4,5 +4,6 @@
 	"NAMEDAY_TODAY" : "$NAME$ hat heute Namenstag",
 	"NAMEDAY_TOMORROW" : "Morgen hat $NAME$ Namenstag",
 	"NAMEDAY_YESTERDAY" : "Gestern hattet $NAME$ Namenstag",
-	"NAMEDAY_NAMEDAYS" : "Am $DAY$/$MONTH$ hat $NAME$ Namenstag"
+	"NAMEDAY_NAMEDAYS" : "Am $DAY$/$MONTH$ hat $NAME$ Namenstag",
+	"AND": "und"
 }

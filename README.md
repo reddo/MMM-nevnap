@@ -46,7 +46,7 @@ Add the following text to `MagicMirror/config/config.js` to activate the module.
 
 ## Dependencies
 
-You can find API used in this module [here](https://nevnapok.eu/).
+None.
 
 ## Special Thanks
 

@@ -4,5 +4,6 @@
 	"NAMEDAY_TODAY" : "Es el día del santo de $NAME$ hoy",
 	"NAMEDAY_TOMORROW" : "Será el día del santo de $NAME$ mañana",
 	"NAMEDAY_YESTERDAY" : "Era el día del santo de $NAME$ ayer",
-	"NAMEDAY_NAMEDAYS" : "En el $DAY$/$MONTH$ es el día del santo de $NAME$"
+	"NAMEDAY_NAMEDAYS" : "En el $DAY$/$MONTH$ es el día del santo de $NAME$",
+	"AND": "y"
 }
